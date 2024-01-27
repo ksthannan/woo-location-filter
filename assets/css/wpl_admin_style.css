@@ -1,0 +1,14 @@
+.form_row label {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.form_row {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    overflow: hidden;
+    width: 100%;
+}
+.form_row input[type=date] {
+    min-width: 250px;
+}
